@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common.iml" filepath="$PROJECT_DIR$/.idea/modules/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-build.iml" filepath="$PROJECT_DIR$/.idea/modules/common-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/consumer.iml" filepath="$PROJECT_DIR$/.idea/modules/consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/consumer-build.iml" filepath="$PROJECT_DIR$/.idea/modules/consumer-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/publisher.iml" filepath="$PROJECT_DIR$/.idea/modules/publisher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/publisher-build.iml" filepath="$PROJECT_DIR$/.idea/modules/publisher-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-rabbitmq-example.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-rabbitmq-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-rabbitmq-example-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-rabbitmq-example-build.iml" />
+    </modules>
+  </component>
+</project>
